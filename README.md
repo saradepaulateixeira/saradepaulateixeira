@@ -1,4 +1,5 @@
-### Hi !! I'm Sara de Paula Teixeira 👋
+### Hi !! 
+### I'm Sara de Paula Teixeira 👋
 
 - 🔭 I’m currently working on front-end developer
 - 🌱 I’m currently learning React and UI/UX
