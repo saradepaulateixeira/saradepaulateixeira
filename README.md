@@ -1,9 +1,9 @@
 ### Hi !! 
-### I'm Sara de Paula Teixeira 👋
+### I'm Sara de Paula Teixeira
 
-- 🔭 I’m currently working on front-end developer
-- 🌱 I’m currently learning React and UI/UX
-- ⚡ Fun fact: I love watching the sunset... preferably on a beach
+- I’m currently working on front-end developer
+- I’m currently learning React and UI/UX
+- Fun fact: I love watching the sunset... preferably on a beach
 
 <div align="center">
   <a href="https://github.com/saradepaulateixeira">
